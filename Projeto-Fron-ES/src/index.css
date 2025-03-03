@@ -1,0 +1,15 @@
+/* configurações iniciais */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  /* google fonts */
+}
+
+body, html {
+  background-color: #5fb64d;
+}
+
+div {
+  padding: .8rem;
+}
